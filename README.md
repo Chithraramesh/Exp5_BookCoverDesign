@@ -119,7 +119,7 @@ Publish the website in the LocalHost.
         <li>Basics</li>
     </ul>
 <div>
-    <div class="author">Sathana B</div>
+    <div class="author">R CHITHRA</div>
 </div>
 
 </body>
